@@ -1,0 +1,6 @@
+xorg-server
+xorg-apps
+xorg-xinit
+xorg-twm
+xorg-xclock
+xterm

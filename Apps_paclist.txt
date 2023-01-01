@@ -1,0 +1,4 @@
+haveged
+tlp
+neofetch
+upower

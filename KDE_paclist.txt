@@ -1,0 +1,5 @@
+kde-applications-meta
+packagekit-qt5
+plasma-meta
+plasma-wayland-session
+sddm
